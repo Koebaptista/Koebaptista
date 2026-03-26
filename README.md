@@ -36,12 +36,10 @@ Já atuei no desenvolvimento de soluções completas, incluindo:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api?username=Koebaptista&show_icons=true&theme=midnight-purple"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koebaptista&layout=compact&theme=midnight-purple"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Koebaptista&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Koebaptista&layout=compact&theme=midnight-purple"/>
+  <br/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=Koebaptista&theme=midnight-purple"/>
 </div>
 
 ---
