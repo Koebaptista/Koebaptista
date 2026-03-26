@@ -86,6 +86,5 @@ Já atuei no desenvolvimento de soluções completas, incluindo:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Batista-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Koebaptista-black?style=for-the-badge&logo=github)](https://github.com/Koebaptista)
 
 </div>
