@@ -162,14 +162,20 @@ Desenvolvimento de uma solução de vendas automatizadas utilizando:
 
 ## 🏆 Conquistas
 
+
 🥇 1º Lugar — Hackathon Biotic
+
 🥈 2º Lugar — Hackathon Brasília + TI / CAIXA + IBM
+
 🥇 1º Lugar — Hackathon Hackacity
+
 🥉 3º Lugar — Hackathon Inova TI Series 4
+
 🥈 2º Lugar — Hackathon Inova TI Series 4
+
 🥉 3º Lugar — Hackathon Inova TI
+
 🥈 2º Lugar — HackIdeias Elas
-🏅 Reconhecimento Tech Excellence — SINDESEI-DF
 
 🏅 **Reconhecimento Tech Excellence — SINDESEI-DF**
 
